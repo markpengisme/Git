@@ -1,1 +1,1 @@
-i am b2
+conflict am b2
