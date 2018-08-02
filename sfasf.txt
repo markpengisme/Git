@@ -1,0 +1,49 @@
+`git init`:
+`git status`:
+`git add <file`:
+`.gitignore`:
+``:
+`git diff <file>`:
+`git diff --staged`:
+`git mv `:
+`git rm`:
+`git log --pretty=format:"%h %an %ar - %s"`:
+`git show <commit-hash>`:
+``:
+`git remote add <name> <url>`:
+`git remote -v`:
+`git push [remote-name:origin] [branch-name:master]`:
+`git checkout branch`:
+`git fetch`:
+``:
+`git checkout . `:
+`還原工作目錄檔案`:
+`git reset .`:
+`還原暫存區檔案`:
+`git reset --hard == git checkout + git reset`:
+`git revert HEAD `:
+``:
+`git merge`:
+`git checkout --ours staging.txt`:
+`git rebase`:
+``:
+``:
+``:
+`git checkout -b <new branch name> `:
+`= git branch <new branch name> + git checkout <new branch name>`:
+`git branch -va`:
+`git branch -d <branch_name>`:
+``:
+`git diff HEAD~2 HEAD`:
+`git log --oneline`:
+`git log -p -n 2`:
+`git log --grep="Initial"`:
+`git bisect`:
+`git blame -L 6,8 list.html`:
+``:
+``:
+`git cherry-pick <hash-id|ref>`:
+``:
+`git rebase --interactive --root`:
+`git commit --amend`:
+`git rebase `:
