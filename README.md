@@ -1,6 +1,6 @@
 # Git
 筆記（單人單分支->單人多分支)  
-單人單分支:init,add,commit,push,pull,fetch
+單人單分支:init,add,commit,push,pull
 
 ## 常用
 - 查看目前檔案狀態 `git status`
