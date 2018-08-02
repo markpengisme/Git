@@ -16,9 +16,3 @@
 - 分枝圖 `git log --graph --oneline`
 - 遠端分支上傳`git push -u origin 本地branch:遠端branch`
 - 遠端分支刪除`git push -u origin :new_branch`
-
-<div style="font-size:15px;text-align:center;background-color:#fafbf1;border-style: dashed;border-width:1px;color:gray;border-radius:10px;margin:0% 25%">
-	 <p>
-	 	sssss > > >
-	 </p>
-</div>
