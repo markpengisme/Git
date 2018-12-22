@@ -1,6 +1,7 @@
 # Git
-筆記（單人單分支->單人多分支)  
-單人單分支:init,add,commit,push,pull,fetch
+- 筆記（單人單分支->單人多分支)  
+- 單人單分支:init,add,commit,push,pull,fetch
+- branch name : i-am-a-git-repo
 
 ## 常用
 - 查看目前檔案狀態 `git status`
@@ -17,8 +18,3 @@
 - 遠端分支上傳`git push -u origin 本地branch:遠端branch`
 - 遠端分支刪除`git push -u origin :new_branch`
 
-<div style="font-size:15px;text-align:center;background-color:#fafbf1;border-style: dashed;border-width:1px;color:gray;border-radius:10px;margin:0% 25%">
-	 <p>
-	 	sssss > > >
-	 </p>
-</div>
