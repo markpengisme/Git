@@ -17,4 +17,3 @@
 - 分枝圖 `git log --graph --oneline`
 - 遠端分支上傳`git push -u origin 本地branch:遠端branch`
 - 遠端分支刪除`git push -u origin :new_branch`
-
